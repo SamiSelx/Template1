@@ -1,0 +1,6 @@
+--main-color: #10cab7
+--background-color: #f6f6f6
+--color-service:#2c4755
+--titre-color: #ebeced
+--sous-title: #575757
+--footer-color: #2c4755
